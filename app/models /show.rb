@@ -17,5 +17,7 @@ class Shows < ActiveRecord::Base
   def popular_shows
     
   end
-  def 
+  def shows_by_alphabetical_order
+    
+  end
 end
