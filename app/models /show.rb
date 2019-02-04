@@ -8,5 +8,8 @@ class Shows < ActiveRecord::Base
   def lowest_rating
     
   end
-  def 
+  def least_popular_show
+    
+  end
+  def  
 end
