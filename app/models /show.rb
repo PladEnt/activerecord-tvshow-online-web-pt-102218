@@ -11,5 +11,8 @@ class Shows < ActiveRecord::Base
   def least_popular_show
     
   end
-  def  
+  def  ratings_sum
+    
+  end
+  def 
 end
