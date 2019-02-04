@@ -1,6 +1,9 @@
 class Shows < ActiveRecord::Base
-        def highest_rating
-        end
-        def most_popular_show
-        end
+  def highest_rating
+    
+  end
+  def most_popular_show
+    
+  end
+  def 
 end
